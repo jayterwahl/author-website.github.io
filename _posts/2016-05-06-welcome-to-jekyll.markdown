@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "I have a blog now."
+date:   2016-06-06 15:21:32 -0700
+categories: jekyll update
+---
+
+A blog is the height of ego and narcissism, rivaled only by the act of procreation,
+ or the wearing of a man-bun.
