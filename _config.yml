@@ -8,11 +8,11 @@
 # Site settings
 title: Jamie Wahls
 email: jamie.wahls@gmail.com
-description:   I do a little of everything.
+description: I do a little bit of everything
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-github_username:  jayterwahl
+github_username: jayterwahl
 
 # Build settings
 markdown: kramdown
