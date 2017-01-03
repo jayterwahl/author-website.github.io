@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I have a blog now."
+title:  "Read some of my words"
 date:   2016-12-20 15:21:32 -0700
 categories: announcements
 ---
