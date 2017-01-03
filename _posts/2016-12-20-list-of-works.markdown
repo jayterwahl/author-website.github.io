@@ -5,9 +5,7 @@ date:   2016-12-20 15:21:32 -0700
 categories: announcements
 ---
 
-The classy authors have a listing of their works available.
-
-These can even be read online!
+The classy authors have a listing of their works available. Some of these can even be read online!
 
 
 
@@ -21,7 +19,7 @@ These can even be read online!
 *The Button*, [Sci Phi Journal,](http://www.sciphijournal.com/the-button-by-jamie-wahls/)
 
 
-(The following cannot be read online. I'll post them when it would not be a breach of contract for me to do so.)
+(The following are still under contract. I'll post them when it would not be a crime for me to do so.)
 
 
 *Maestro*, [Geminid Press,](https://www.amazon.com/Night-Lights-Anthology-Fiction-Conspiracy-ebook/dp/B01BUL411Q)
