@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Published and podcasted in Strange Horizons"
+title:  "Utopia, Lol?? is published and podcasted in Strange Horizons"
 date:   2017-6-02 15:21:32 -0700
 categories: announcements
 ---
