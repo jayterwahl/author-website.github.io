@@ -18,6 +18,8 @@ The classy authors have a listing of their works available. Some of these can ev
 ![Button cover illustration](/assets/TheButtonCover.jpg)
 *The Button*, [Sci Phi Journal,](http://www.sciphijournal.com/the-button-by-jamie-wahls/)
 
+*Variations on a Suicide*, [Shortest Day, Longest Night](https://www.youtube.com/watch?v=RCS3G-h9aI8)
+
 
 (The following are still under contract. I'll post them when it would not be a crime for me to do so.)
 
@@ -26,6 +28,3 @@ The classy authors have a listing of their works available. Some of these can ev
 
 
 *The Punchline is Cthulu*, [Creepy Campfire Quarterly,](https://www.amazon.com/Creepy-Campfire-Quarterly-Jennifer-Word-ebook/dp/B01M3QSFAL/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1478832390&sr=1-1)
-
-
-*Variations on a Suicide*, [Shortest Day, Longest Night](https://arachnepress.com/shop/?~~mode=product&~~id=74366493#!/Shortest-Day-Longest-Night/p/74366493)
