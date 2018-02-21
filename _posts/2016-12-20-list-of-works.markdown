@@ -12,7 +12,7 @@ The classy authors have a listing of their works available. Some of these can ev
 *For the Children*, [Mothership Zeta,](http://mothershipzeta.org/2016/09/30/for-the-children-by-jamie-wahls/)
 
 
-*The Little Gods*, [Compelling Science Fiction,](https://smile.amazon.com/dp/B01MSVLVE4)
+*The Little Gods*, [Compelling Science Fiction,](http://compellingsciencefiction.com/stories/thelittlegods.html)
 
 
 ![Button cover illustration](/assets/TheButtonCover.jpg)
