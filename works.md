@@ -10,7 +10,7 @@ The classy authors have a listing of their works available. Some of these can ev
 
 *The Little Gods*, [Compelling Science Fiction](http://compellingsciencefiction.com/stories/thelittlegods.html), 2016
 
-*The Button*, [Sci Phi Journal](http://www.sciphijournal.com/the-button-by-jamie-wahls/), 2016
+*The Button*, [Sci Phi Journal](https://www.sciphijournal.org/index.php/2016/04/15/the-button-by-jamie-wahls/), 2016
 
 *Variations on a Suicide*, [Shortest Day, Longest Night](https://www.youtube.com/watch?v=RCS3G-h9aI8), 2017
 
