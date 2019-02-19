@@ -18,6 +18,7 @@ The classy authors have a listing of their works available. Some of these can ev
 
 *The Button*, [Sci Phi Journal](https://www.sciphijournal.org/index.php/2016/04/15/the-button-by-jamie-wahls/), 2016
 
+![Button cover illustration](/assets/TheButtonCover.jpg)
 
 (The following are still under contract. I'll post them when it would not be a crime for me to do so.)
 
