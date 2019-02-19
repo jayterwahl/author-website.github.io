@@ -6,6 +6,8 @@ permalink: /works/
 
 The classy authors have a listing of their works available. Some of these can even be read online!
 
+*Eater of Worlds*, [Clarkesworld](http://clarkesworldmagazine.com/wahls_01_19/), 2018
+
 *For the Children*, [Mothership Zeta](http://mothershipzeta.org/2016/09/30/for-the-children-by-jamie-wahls/), 2016
 
 *The Little Gods*, [Compelling Science Fiction](http://compellingsciencefiction.com/stories/thelittlegods.html), 2016
