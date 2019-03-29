@@ -7,6 +7,8 @@ categories: announcements
 
 The classy authors have a listing of their works available. Some of these can even be read online!
 
+*Truth+*, [Strange Horizons](http://strangehorizons.com/fiction/truth/), 2019
+
 *Eater of Worlds*, [Clarkesworld](http://clarkesworldmagazine.com/wahls_01_19/), 2018
 
 *Utopia, Lol??*, [Strange Horizons](http://strangehorizons.com/fiction/utopia-lol/), 2017
