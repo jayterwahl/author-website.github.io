@@ -13,7 +13,7 @@ description: I do a little bit of everything
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 github_username: jayterwahl
-twitter_username: https://twitter.com/JamieWahls
+twitter_username: twitter.com/JamieWahls
 
 # Build settings
 markdown: kramdown
