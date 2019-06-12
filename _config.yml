@@ -12,7 +12,7 @@ description: I do a little bit of everything
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: twitter.com/JamieWahls
+twitter_username: JamieWahls
 github_username: jayterwahl
 
 
