@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Sense of Wonder scholarship"
+title:  "The George R.R. Martin Sense of Wonder scholarship"
 date:   2019-06-06 15:21:32 -0700
 categories: announcements
 ---
