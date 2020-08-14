@@ -1,8 +1,7 @@
 ---
-layout: post
-title:  "Read some of my words"
-date:   2016-12-20 15:21:32 -0700
-categories: announcements
+layout: page
+title: Works
+permalink: /works/
 ---
 
 The classy authors have a listing of their works available. Some of these can even be read online!
