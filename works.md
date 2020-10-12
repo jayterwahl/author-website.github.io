@@ -6,6 +6,8 @@ permalink: /works/
 
 The classy authors have a listing of their works available. Some of these can even be read online!
 
+*A Kept Species*, [Daily Science Fiction](https://dailysciencefiction.com/science-fiction/future-societies/jamie-wahls/a-kept-species), 2020
+
 *That Time We Borked Causality*, [Nature Futures](https://www.nature.com/articles/d41586-020-02384-4?utm_source=twt_nft&utm_medium=social&utm_campaign=futures), 2020
 
 ![Borked cover illustration](/assets/borkedcover.jpg)
