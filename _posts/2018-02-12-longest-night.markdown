@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Performance of Variations On A Suicide at London Solstice Shorts"
+title:  "Live Performance of \"Variations on a Suicide\" at London Solstice Shorts"
 date:   2018-2-12 15:21:32 -0700
 categories: announcements
 ---
