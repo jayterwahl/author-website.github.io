@@ -6,6 +6,8 @@ permalink: /works/
 
 The classy authors have a listing of their works available. Some of these can even be read online!
 
+*Emotional Intelligence Amplification*, [Asterisk Magazine](https://asteriskmag.com/issues/03/emotional-intelligence-amplification), 2023
+
 *There Are Angels and They Are Utilitarians*, [Diabolical Plots](https://www.diabolicalplots.com/dp-fiction-82b-there-are-angels-and-they-are-utilitarians-by-jamie-wahls/), 2021
 
 *The Murders of Jason Hartman*, [Clarkesworld](http://clarkesworldmagazine.com/nelson-wahls_11_20/), 2020
