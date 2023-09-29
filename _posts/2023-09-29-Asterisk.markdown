@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Story in Asterisk"
+date:   2023-09-29 15:21:32 -0700
+categories: announcements
+---
+
+New story out in Asterisk, [Emotional Intelligence Amplification](https://asteriskmag.com/issues/03/emotional-intelligence-amplification).
+
+I have, at this point in my career, embraced that I hate writing prose and am just here for chatlogs now. 
