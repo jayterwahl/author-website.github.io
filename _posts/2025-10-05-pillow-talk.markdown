@@ -7,5 +7,5 @@ categories: announcements
 
 I'm a poetry boy now. Love does things to you. 
 
-![Pillow Talk image and poem](/assets/Pillowtalk.jpg)
+![Pillow Talk image and poem](/assets/pillowtalk.jpg)
 
