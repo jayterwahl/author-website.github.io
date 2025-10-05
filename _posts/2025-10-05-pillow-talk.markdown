@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Poetry with Kasia"
-date:   2025-10-05 15:21:32 -0700
+date:   2025-09-05 15:21:32 -0700
 categories: announcements
 ---
 
