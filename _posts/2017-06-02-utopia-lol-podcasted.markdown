@@ -9,4 +9,4 @@ This is, to my knowledge, the first time I've been podcasted. Neat!
 
 Available online at [Strange Horizons](http://strangehorizons.com/fiction/utopia-lol/), though I still recommend you read it with your eyes.
 
-![Utopia cover illustration](/assets/UtopiaLolCover.png)
+![Utopia cover illustration](/assets/UtopiaLolCover.jpg)
