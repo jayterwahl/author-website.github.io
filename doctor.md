@@ -1,7 +1,8 @@
 ---
-layout: na
 title: The Story Doctor Is In
 permalink: /doctor/
+layout: page
+hidden: true
 ---
 
 The Story Doctor is (In)
