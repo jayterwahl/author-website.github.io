@@ -1,7 +1,7 @@
 ---
 title: The Story Doctor Is In
 permalink: /doctor/
-layout: page
+layout: post
 hidden: true
 ---
 
