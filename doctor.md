@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: na
 title: The Story Doctor Is In
 permalink: /doctor/
 ---
