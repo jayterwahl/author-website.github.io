@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "The Main Plot of The Erogamer"
+date: 2021-07-17
 category: "Books & Web Fiction"
 ---
 

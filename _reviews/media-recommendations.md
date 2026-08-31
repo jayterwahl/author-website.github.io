@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Media Recommendations 2019"
+date: 2019-12-31
 category: "The Big List"
 ---
 

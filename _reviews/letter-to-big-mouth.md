@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Letter to Big Mouth"
+date: 2025-08-27
 category: "TV, Film & Animation"
 ---
 

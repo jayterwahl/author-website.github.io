@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Upstream Color: So Was He the Bad Guy, or What?"
+date: 2024-11-30
 category: "TV, Film & Animation"
 ---
 

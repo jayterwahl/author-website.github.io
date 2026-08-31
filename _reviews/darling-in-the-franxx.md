@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Darling in the Franxx Betrayed Me"
+date: 2025-02-02
 category: Anime
 ---
 

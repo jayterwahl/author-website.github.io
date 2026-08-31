@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Shimoneta Wasn't Good, Exactly"
+date: 2021-03-03
 category: Anime
 ---
 

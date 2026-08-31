@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Interspecies Reviewers: A Begrudging Respect"
+date: 2021-07-17
 category: Anime
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Deca-Dence: Could've Been Good"
+date: 2021-03-03
 category: Anime
 ---
 

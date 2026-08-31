@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Control, the Game: A Review"
+date: 2021-03-03
 category: Games
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Starfighter: Eclipse — I Wish This Were Good"
+date: 2021-07-17
 category: Games
 ---
 

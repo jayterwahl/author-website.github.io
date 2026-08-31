@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Beastars: What Even?"
+date: 2021-03-03
 category: Anime
 ---
 

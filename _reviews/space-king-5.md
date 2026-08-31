@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Space King 5: Annoyances"
+date: 2026-08-31
 category: "TV, Film & Animation"
 ---
 

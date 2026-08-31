@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Hello World: An Anime Plot Summary"
+date: 2021-03-03
 category: Anime
 ---
 
