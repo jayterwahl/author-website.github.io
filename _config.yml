@@ -18,3 +18,11 @@ github_username: jayterwahl
 
 # Build settings
 markdown: kramdown
+
+# Review pages collection
+collections:
+  reviews:
+    output: true
+    permalink: /reviews/:name/
+
+exclude: ["Recommendations?", "Gemfile", "Gemfile.lock", "_site.zip", "vendor"]
