@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reviews
+title: Recommendations
 permalink: /reviews/
 ---
 
