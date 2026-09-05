@@ -1,9 +1,25 @@
 <style>
+  /* Subscribe page: small, unbolded title, form vertically centered */
+  .post {
+    min-height: calc(100vh - 280px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .post-header {
+    margin-bottom: 10px;
+  }
+  .post-title {
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 0;
+    color: #555;
+  }
   .subscribe-form {
     display: flex;
     align-items: stretch;
     gap: 6px;
-    margin-top: 20px;
+    margin-top: 0;
   }
   .subscribe-form input[type="email"] {
     flex: 1 1 auto;

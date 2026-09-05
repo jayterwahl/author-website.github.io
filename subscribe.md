@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Subscribe
+title: Subscribe?
 permalink: /subscribe/
 hide_from_nav: true
 ---
